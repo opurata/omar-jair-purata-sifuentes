@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "es-MX"
 title                    : "Dr. Omar Jair Purata Sifuentes, CSSBB"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Jair Purata"
-description              : "An amazing website."
+description              : "The personal website of Dr Jair Purata, coffee included."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ author:
   name             : "Jair Purata"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Six sigma certified black belt"
-  location         : "División de Ciencias Económico Administrativas - Guanajuato"
+  location         : "DCEA - Guanajuato"
   email            : "opurata@gmail.com"
   links:
     - label: "Email"
