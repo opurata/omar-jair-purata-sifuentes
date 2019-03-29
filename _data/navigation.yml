@@ -4,8 +4,8 @@ main:
     url: https://github.com/opurata/omar-jair-purata-sifuentes
   - title: "Aula Virtual"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Galería"
+    url: /gallery/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
