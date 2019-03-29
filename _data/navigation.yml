@@ -1,12 +1,10 @@
 # main links
 main:
   - title: "Publicaciones"
-    url: https://github.com/opurata/omar-jair-purata-sifuentes
+    url: /pubs/
   - title: "Aula Virtual"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Galería"
-    url: /gallery/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    url: /photos/
   # - title: "Sitemap"
   #   url: /sitemap/
