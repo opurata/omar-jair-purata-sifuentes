@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Publicaciones"
+    url: /pubs/
+  - title: "Aula Virtual"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Galería"
+    url: /photos/
+  # - title: "Sitemap"
+  #   url: /sitemap/
